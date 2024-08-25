@@ -1,0 +1,22 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-tools": "tsc",
+    "dev-tools": "npx tsx watch tools/toc/index.ts",
+    "build": "node dist/toc/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "to-vfile": "^8.0.0",
+    "typescript": "^5.5.4",
+    "vfile-matter": "^5.0.0"
+  }
+}

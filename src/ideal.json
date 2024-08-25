@@ -1,0 +1,57 @@
+{
+  "directoryTitle": "Example Directory",
+  "directoryDescription": "This is an example directory description.",
+  "pages": [
+    {
+      "title": "Hi, World!",
+      "description": "",
+      "id": 0,
+      "isMdx": true,
+      "isFolder": false,
+      "createdAt": 1724169266,
+      "modifiedAt": 1724169266,
+      "route": "frontmatter"
+    },
+    {
+      "title": "",
+      "description": "",
+      "id": 1,
+      "isMdx": true,
+      "isFolder": false,
+      "createdAt": 1724169266,
+      "modifiedAt": 1724169266,
+      "route": "hello"
+    },
+    {
+      "title": "",
+      "description": "",
+      "id": 2,
+      "isMdx": true,
+      "isFolder": false,
+      "createdAt": 1724169266,
+      "modifiedAt": 1724169266,
+      "route": "hello2"
+    },
+    {
+      "title": "",
+      "description": "",
+      "id": 3,
+      "isMdx": true,
+      "isFolder": true,
+      "createdAt": 0,
+      "modifiedAt": 0,
+      "route": "hello3"
+    },
+    {
+      "title": "",
+      "description": "",
+      "id": 4,
+      "isMdx": true,
+      "isFolder": true,
+      "createdAt": 0,
+      "modifiedAt": 0,
+      "route": "projects"
+    }
+  ],
+  "hasMorePages": false
+}
